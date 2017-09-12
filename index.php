@@ -13,5 +13,8 @@ and open the template in the editor.
         <?php
         echo "branch test";
         ?>
+        <?php
+        echo "branch test";
+        ?>
     </body>
 </html>
