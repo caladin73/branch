@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // Peter Branch
+        echo "hej med dig"
         ?>
     </body>
 </html>
